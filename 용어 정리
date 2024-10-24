@@ -1,0 +1,1 @@
+컬렉션의 모든 document 출력 : await db.collection('post').find().toArray()
